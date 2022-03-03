@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arun_kumar ;
-- 👀 I’m interested in web_development ;
-- 🌱 I’m currently learning full_stack_development ; //mern_stack
-- 💞️ I’m looking to collaborate on front_end_projects as of now ;
+- 👀 Engineering graduate 
+- 🌱 An aspiring fullstack web developer;
+- 💞️ Feel free to ask me for collabrations doors are opened always
 - 📫 Reach me at rajarunsathy@gmail.com ;
 
 <!---
