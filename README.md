@@ -1,7 +1,7 @@
 - 👋 hi, mySelf arunKumar ;
 - 👀 engineering_graduate 
 - 🌱 an aspiring fullStack webDeveloper;
--  `checkOut ` on <a href="https://aruns-portfolio.natlify.app" target="_blank"> -->myPortfolio</a>.
+-  `checkOut `  --> <a href="https://aruns-portfolio.natlify.app" target="_blank">myPortfolio</a>.
 - 📫 Reach me at rajarunsathy@gmail.com ;
 
 <!---
