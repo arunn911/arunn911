@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arun_kumar ;
-- 👀 Engineering graduate 
-- 🌱 An aspiring fullstack web developer;
-- 💞️ Feel free to ask me for collabrations doors are opened always
+- 👋 hi, mySelf arunKumar ;
+- 👀 engineering_graduate 
+- 🌱 an aspiring fullStack webDeveloper;
+-  `checkOut myPortfolio` on <a href="https://aruns-portfolio.natlify.app" target="_blank"></a>.
 - 📫 Reach me at rajarunsathy@gmail.com ;
 
 <!---
