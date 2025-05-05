@@ -1,8 +1,8 @@
 - 👋 hi, mySelf arunKumar ;
 - 👀 engineering_graduate 
 - 🌱 an aspiring fullStack webDeveloper;
--  `checkOut ` this is  <a rel=”noreferrer” href="https://aruns-portfolio.netlify.app" target="_blank"> myPortfolio</a>.
-- 📫 reachMe at rajarunsathy@gmail.com ;
+-  `checkOut ` this is  <a rel=”noreferrer” href="https://devarun.net" target="_blank"> myPortfolio</a>.
+- 📫 reachMe at arunjs@outlook.com ;
 
 <!---
 arunn911/arunn911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
